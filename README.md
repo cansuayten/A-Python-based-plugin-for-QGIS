@@ -12,6 +12,10 @@ A plugin developed for QGIS with the capabilities to load layers with point geom
 8. For the distance calculation between points, select two points from the points table in the second tab. Choose a method and click the Calculate button.
 9. Click the clear button to clear selected points and calculations
 
+## GUI
+<img width="310" alt="gui1" src="https://user-images.githubusercontent.com/44004959/175825113-77de5f63-cd01-4aa9-b5e3-919bcf5ea04b.PNG">
+<img width="310" alt="gui2" src="https://user-images.githubusercontent.com/44004959/175825116-5f8a9b36-629e-4a69-b90a-0a37ece72ecd.PNG">
+
 
 ## About developer
 Cansu Ayten 171180010 Gazi University Computer Engineering Student
